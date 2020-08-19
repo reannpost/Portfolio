@@ -4,6 +4,6 @@ Hi! Welcome to my professional coding portfolio. I have included some snippets o
 
 [Extracting information from a large dataframe](assignment_3_sample.md)
 
-[example of a loop](for_loop_example.md)
+[Example of a loop](for_loop_example.md)
 
-[datavisualization](Datavis_example.ipynb)
+[Data Visualization](Datavis_example.ipynb)
