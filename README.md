@@ -9,3 +9,5 @@ Hi! Welcome to my professional coding portfolio. I have included some pieces of 
 [Data Visualization](Datavis_example.ipynb)
 
 [Demo explaining how to create csv files](https://web.microsoftstream.com/video/08524ad2-4b91-4fd8-bbce-f31de032d209)
+
+[Creating and working with dictionaries](Dictionary_example.md)
