@@ -15,3 +15,5 @@ This is a short demo explaining how to create csv files
 [Creating and working with dictionaries](Dictionary_example.md)
 
 [Histogram Example](Histogram_ex.md)
+
+[Scatterplot using Seaborn](Seaborn_Scatterplot.md)
