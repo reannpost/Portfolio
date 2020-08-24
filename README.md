@@ -6,7 +6,7 @@ Hi! Welcome to my professional coding portfolio. I have included some pieces of 
 
 [Example of a loop](for_loop_example.md)
 
-[Data Visualization](Datavis_example.ipynb)
+[Data Visualization](Datavis_example.md)
 
 [Demo explaining how to create csv files](https://web.microsoftstream.com/video/08524ad2-4b91-4fd8-bbce-f31de032d209)
 
