@@ -11,3 +11,5 @@ Hi! Welcome to my professional coding portfolio. I have included some pieces of 
 [Demo explaining how to create csv files]<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/08524ad2-4b91-4fd8-bbce-f31de032d209?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 [Creating and working with dictionaries](Dictionary_example.md)
+
+[Histogram Example](Histogram_ex.md)
